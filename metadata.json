@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise - Free Expense Tracker PWA",
+  "description": "Free, private daily and monthly expense tracker with budgeting, analytics, and Google Sheets CSV export. Works 100% offline on your phone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
